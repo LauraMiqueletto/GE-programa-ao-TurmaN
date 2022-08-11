@@ -1,7 +1,28 @@
 body {
-    background: blue;
+    background-color :#DB125;
 }
-h1 {
-  text-align: center;
+
+    header,footer{ 
+        background-color:rgb(245,27,113);  
+
+}
+
+main {
+
+  background-color:#33FF3E;
+}
+h1  {
+     text-align: center;
+    color:#black;
+
+}
+
+  h3 {
+    color:black;
+
+
+    b { 
+      color; rgb(245,27,113)
+   font-size: 20px;
 }
 
