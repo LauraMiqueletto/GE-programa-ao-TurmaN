@@ -3,13 +3,13 @@ body {
 }
 
     header,footer{ 
-        background-color:rgb(245,27,113);  
+        background-color:rgb(245, 107, 27);  
 
 }
 
 main {
 
-  background-color:#33FF3E;
+  background-color:#fcff33;
 }
 h1  {
      text-align: center;
@@ -22,7 +22,7 @@ h1  {
 
 
     b { 
-      color; rgb(245,27,113)
+      color;rgb(245,27,113)
    font-size: 20px;
 }
 
