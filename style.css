@@ -1,6 +1,10 @@
 body {
     background-color:#DB125;
     }
+#fotos {
+    width: 140%;
+    heigth: 140%;
+}
     header,footer{ 
         background-color:rgb(245, 107, 27);  
 }
