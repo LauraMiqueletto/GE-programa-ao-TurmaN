@@ -2,8 +2,8 @@ body {
     background-color:#DB125;
     }
 #foto {
-    width: 70%;
-    heigth: 70%;
+    width: 100%;
+    heigth: 100%;
 }
     header,footer{ 
         background-color:rgb(245, 107, 27);  
